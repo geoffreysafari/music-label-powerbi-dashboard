@@ -21,4 +21,4 @@ This project analyzes a simulated music label dataset using Power BI.
 - Highlighted impact of high-performing songs
 
 ## 📊 Dashboard Preview
-![Dashboard](label power bi dashboard image.png)
+! [Dashboard] (label_power_bi_dashboard_image.png)
